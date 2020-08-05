@@ -10,7 +10,7 @@ body{
     right: 0;
     z-index: 3;
 }
-.nav-item{
+.navbar .nav-item{
     font-size: 1.4rem;
 }
 h3{
